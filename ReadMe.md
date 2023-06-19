@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a self-taught front-end web developer with a passion for creating intuitive and visually appealing user interfaces. Proficient in JavaScript and experienced in React, I specialize in building responsive websites and web applications. With a strong foundation in HTML and CSS, I have a keen eye for design and enjoy bringing ideas to life with clean and efficient code. I'm also familiar with popular front-end libraries and frameworks like Tailwind CSS and SCSS pre-processor. As a continuous learner, I'm always seeking opportunities to expand my skill set and stay up-to-date with the latest web technologies. Let's collaborate and create engaging web experiences together!
-
+Motivated and self-taught Frontend Web Developer with a passion for coding and a portfolio of projects demonstrating proficiency. Fast learner and detail-oriented with a keen eye for design and user experience. Seeking opportunities to contribute to dynamic development teams and expand skills in a professional environment.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/machoudi/) 
