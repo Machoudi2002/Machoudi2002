@@ -14,9 +14,6 @@ Motivated and self-taught Frontend Web Developer with a passion for coding and a
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=machoudi2002&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=machoudi2002&icon=0&color=7)](https://visitcount.itsvg.in)
 
