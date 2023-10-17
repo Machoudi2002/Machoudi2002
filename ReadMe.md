@@ -35,6 +35,6 @@ I occasionally write technical articles related to web development, and you can 
 I'm always open to new opportunities, collaborations, or just a friendly chat about web development. You can reach me through the following channels:
 
 - Email: [podkisaki@gmail.com](mailto:podkisaki@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/machoudi/)
+- LinkedIn: [machoudi](https://www.linkedin.com/in/machoudi/)
 
 Let's connect and create amazing things together! 🚀
