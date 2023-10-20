@@ -19,7 +19,7 @@ You can find a selection of my open-source projects and contributions on my GitH
 - [Fastail](https://github.com/Machoudi2002/fastail): Powerful Node.js command-line tool that streamlines the process of setting up a project with Tailwind CSS.
 - [Atlas Recipes](https://github.com/Machoudi2002/Atlas-Recipe-React-Web-App): Recipe Web App using ReactJS, SASS, Bootstrap...
 - [LockBox Password Generator Chrome Extension](https://github.com/Machoudi2002/LockBox-Password-Generator-Chrome-Extension): Password Generator Chrome Extension.
-- [Republic BarberShop](https://github.com/Machoudi2002/Republic-BarberShop): BarberShop Website.
+- [Republic BarberShop](https://github.com/Machoudi2002/Republic-BarberShop): BarberShop Website using HTML/CSS/JavaScript.
 
 Feel free to explore my repositories to get a better idea of my work!
 
