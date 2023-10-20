@@ -15,6 +15,8 @@ I'm a passionate web developer with expertise in React, Tailwind CSS, TypeScript
 ## 📦 Projects
 
 You can find a selection of my open-source projects and contributions on my GitHub, showcasing my skills and interests. Some notable projects include:
+- [NdtScript](https://github.com/Machoudi2002/NdtScript) A tool for setting up a TypeScript + Node.js project with one command.
+- [Fastail](https://github.com/Machoudi2002/fastail): Powerful Node.js command-line tool that streamlines the process of setting up a project with Tailwind CSS.
 - [Atlas Recipes](https://github.com/Machoudi2002/Atlas-Recipe-React-Web-App): Recipe Web App using ReactJS, SASS, Bootstrap...
 - [LockBox Password Generator Chrome Extension](https://github.com/Machoudi2002/LockBox-Password-Generator-Chrome-Extension): Password Generator Chrome Extension.
 - [Republic BarberShop](https://github.com/Machoudi2002/Republic-BarberShop): BarberShop Website.
