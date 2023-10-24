@@ -4,10 +4,9 @@ I'm a web developer enthusiast, and I'm all about creating awesome web applicati
 
 ## 🔧 Skills
 
-- **Front-End Dev**: I create user-friendly interfaces with React.
-- **Styling Whiz**: I design with Tailwind CSS and SASS.
-- **TypeScript Fan**: I love type-safe coding.
-- **Problem Solver**: I enjoy tackling complex challenges.
+- **Languages**: Python, JavaScript, TypeScript.
+- **Front-End**: HTML, CSS, React, Tailwind CSS, SASS.
+- **Soft Skills**: Problem Solving, Adaptability, Creative Thinking.
 
 ## 📦 My Cool Projects
 
