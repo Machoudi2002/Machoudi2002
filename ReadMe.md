@@ -5,7 +5,7 @@ I'm a web developer enthusiast, and I'm all about creating awesome web applicati
 ## 🔧 Skills
 
 - **Languages**: Python, JavaScript, TypeScript.
-- **Front-End**: HTML, CSS, React, Tailwind CSS, SASS.
+- **Front-End**: HTML, CSS, React, Tailwind CSS, Bootstrap, SASS.
 - **Soft Skills**: Problem Solving, Adaptability, Creative Thinking.
 
 ## 📦 My Cool Projects
