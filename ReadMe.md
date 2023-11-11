@@ -17,6 +17,8 @@ On my GitHub, you'll find a bunch of cool open-source projects that show off wha
 
 Feel free to check out my projects to see what I'm all about!
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Machoudi2002&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 ## 📫 Reach Out
 
 I'm always up for new adventures, collaborations, or even just a friendly chat about web dev. You can connect with me through these channels:
