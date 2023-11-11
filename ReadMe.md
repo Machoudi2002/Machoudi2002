@@ -25,3 +25,5 @@ I'm always up for new adventures, collaborations, or even just a friendly chat a
 - LinkedIn: Let's connect on [LinkedIn](https://www.linkedin.com/in/machoudi/).
 
 Let's get in touch and make some web development magic happen! 🚀✨
+
+[![](https://visitcount.itsvg.in/api?id=Machoudi2002&icon=0&color=0)](https://visitcount.itsvg.in)
