@@ -21,6 +21,8 @@ I'm a web developer enthusiast, and I'm all about creating awesome web applicati
 
 On my GitHub, you'll find a bunch of cool open-source projects that show off what I'm made of. Some nifty ones include:
 
+- [InitialX](https://github.com/Machoudi2002/initialX): ExpressJS & MongoDB Project Template Initialiser.
+- [JobApplic](https://github.com/Machoudi2002/JobApplic): Fullstack MERN Web App - Company Career Page Job Posting/Applying/Managing.
 - [NdtScript](https://github.com/Machoudi2002/NdtScript): A TypeScript + Node.js setup tool with just one command.
 - [Fastail](https://github.com/Machoudi2002/fastail): A handy Node.js command-line tool that makes starting projects with Tailwind CSS a breeze.
 - [Atlas Recipes](https://github.com/Machoudi2002/Atlas-Recipe-React-Web-App): A tasty Recipe Web App using ReactJS, SASS, and Bootstrap.
