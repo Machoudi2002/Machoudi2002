@@ -37,7 +37,7 @@ Feel free to check out my projects to see what I'm all about!
 
 I'm always up for new adventures, collaborations, or even just a friendly chat about web dev. You can connect with me through these channels:
 
-- Email: Shoot me a message at [podkisaki@gmail.com](mailto:podkisaki@gmail.com).
+- Email: Shoot me a message at [machoudi@proton.me](mailto:machoudi@proton.me).
 - LinkedIn: Let's connect on [LinkedIn](https://www.linkedin.com/in/machoudi/).
 
 Let's get in touch and make some web development magic happen! 🚀✨
